@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bob",
+    "picture": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80",
+    "species": "Dog",
+    "breed": "????",
+    "age": 4,
+    "available": true,
+    "description": "Likes walks on the park, dislikes cats"
+  },
+  {
+    "name": "Carlinhos",
+    "picture": "https://media.istockphoto.com/photos/portraits-of-a-serious-cat-sitting-on-window-sill-picture-id1304563453?b=1&k=20&m=1304563453&s=170667a&w=0&h=0rlovccj4NSoSqc3QSgb3JaKxn77RELh9QSCF2AZXHs=",
+    "species": "Cat",
+    "breed": "Cat",
+    "age": 6,
+    "available": true,
+    "description": "Likes to shatter glasses"
+  },
+  {
+    "name": "Louro",
+    "picture": "https://images.unsplash.com/photo-1602009941965-2bdde47c6e27?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=778&q=80",
+    "species": "Parrot",
+    "breed": "Parrot",
+    "age": 45,
+    "available": true,
+    "description": "Likes to sing happy birthday"
+  },
+  {
+    "name": "Tadeu",
+    "picture": "https://media.istockphoto.com/photos/hamster-picture-id1299089557?b=1&k=20&m=1299089557&s=170667a&w=0&h=mpewgyv2sAglfWHFCqPi8sciP4v1RFunQZcAc4dubjg=",
+    "species": "Hamster",
+    "breed": "Hamster",
+    "age": 2,
+    "available": true,
+    "description": "Dislikes dogs"
+  }
+]
